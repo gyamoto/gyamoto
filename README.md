@@ -2,8 +2,7 @@ All You Need Is Sushi :sushi:
 
 ## Interests
 
-**MAIN** : Android/Kotlin, Flutter/Dart
-
+**MAIN** : Android/Kotlin, Flutter/Dart  
 **SUB** : GoogleCloudPlatform, RaspberryPi, Arduino, Ruby, Elixir
 
 ## Work Experience
