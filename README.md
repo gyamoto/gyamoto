@@ -2,7 +2,7 @@ All You Need Is Sushi :sushi:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gyamoto)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyamoto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyamoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests
 
