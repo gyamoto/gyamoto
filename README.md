@@ -7,12 +7,17 @@ All You Need Is Sushi :sushi:
 ## Interests
 
 **MAIN** : Android/Kotlin, Flutter/Dart  
-**SUB** : GoogleCloudPlatform, RaspberryPi, Arduino, Ruby, Elixir
+**SUB** : GoogleCloudPlatform, RaspberryPi, Arduino, Ruby, Elixir, Go
 
 ## Work Experience
 
-- Smartphone Application Engineer (2015-present)
-- [More Details](https://www.wantedly.com/users/675588)
+### Smartphone Application Enginner (2021/08 - present)
+Mobility Technologies Co., Ltd.
+
+### Smartphone Application Engineer (2015/04 - 2021/07)
+teamLab Inc.
+
+[More Details](https://www.wantedly.com/users/675588)
 
 ## Education
 
