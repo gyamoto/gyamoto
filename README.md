@@ -12,7 +12,8 @@ All You Need Is Sushi :sushi:
 ## Work Experience
 
 ### Smartphone Application Enginner (2021/08 - present)
-Mobility Technologies Co., Ltd.
+GO Inc.
+<!-- Mobility Technologies Co., Ltd. -->
 
 ### Smartphone Application Engineer (2015/04 - 2021/07)
 teamLab Inc.
